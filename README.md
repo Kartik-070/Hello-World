@@ -1,2 +1,2 @@
 # Hello-World
-learning to create a repository
+learning to branch a repository and then commit it 
